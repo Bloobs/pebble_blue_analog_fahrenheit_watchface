@@ -1,0 +1,59 @@
+{
+    "appKeys": {
+        "KEY_CITY": 2,
+        "KEY_CONDITIONS": 1,
+        "KEY_ICON": 3,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Bloobs",
+    "longName": "Blue Analog Fahrenheit Elegant Watch ",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icono.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICONO",
+                "type": "png"
+            },
+            {
+                "file": "images/sun-color_low_2.png",
+                "name": "IMAGE_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/snow-color_low_2.png",
+                "name": "IMAGE_SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/rain-color_low_2.png",
+                "name": "IMAGE_RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud-color_low_2.png",
+                "name": "IMAGE_CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/MiReloj4.png",
+                "name": "IMAGE_FONDO_RELOJ",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Blue Analog Fahrenheit",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "bb7cfa1c-838a-4987-975f-a917a7acd773",
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": false
+    }
+}
